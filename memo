@@ -1,0 +1,11 @@
+SERVER PART
+
+g++ mainServer.c -L./vrpn-master/pc_linux64 -L./vrpn-master/quat/pc_linux64 -lvrpn -lvrpnserver -pthread -lusb-1.0 -lquat -o mainServer
+
+sudo ./mainServer
+
+CLIENT PART
+
+g++ main.c -L./vrpn-master/pc_linux64 -lvrpn -pthread -o main
+
+./main

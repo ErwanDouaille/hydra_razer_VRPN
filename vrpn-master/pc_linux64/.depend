@@ -1,0 +1,1460 @@
+pc_linux64/vrpn_Analog.o: vrpn_Analog.C /usr/include/stdc-predef.h vrpn_Analog.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h vrpn_BaseClass.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Serial.h
+pc_linux64/vrpn_Analog_Output.o: vrpn_Analog_Output.C /usr/include/stdc-predef.h \
+ vrpn_Analog_Output.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h vrpn_Analog.h \
+ vrpn_BaseClass.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Serial.h
+pc_linux64/vrpn_Auxiliary_Logger.o: vrpn_Auxiliary_Logger.C \
+ /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Auxiliary_Logger.h /usr/include/string.h /usr/include/xlocale.h \
+ vrpn_BaseClass.h vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h \
+ vrpn_Types.h vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_BaseClass.o: vrpn_BaseClass.C /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_BaseClass.h \
+ vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_Button.o: vrpn_Button.C /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/fcntl.h /usr/include/bits/fcntl.h \
+ /usr/include/bits/fcntl-linux.h /usr/include/bits/uio.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/stat.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/linux/lp.h \
+ /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \
+ /usr/include/asm/ioctls.h /usr/include/asm-generic/ioctls.h \
+ /usr/include/linux/ioctl.h /usr/include/asm/ioctl.h \
+ /usr/include/asm-generic/ioctl.h /usr/include/bits/ioctl-types.h \
+ /usr/include/sys/ttydefaults.h vrpn_Connection.h vrpn_Configure.h \
+ vrpn_Shared.h vrpn_Types.h vrpn_Thread.h /usr/include/pthread.h \
+ /usr/include/sched.h /usr/include/bits/sched.h /usr/include/bits/timex.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Serial.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h vrpn_Button.h vrpn_BaseClass.h
+pc_linux64/vrpn_Connection.o: vrpn_Connection.C /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/signal.h \
+ /usr/include/bits/sigset.h /usr/include/bits/signum.h \
+ /usr/include/time.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/sigthread.h \
+ /usr/include/c++/5.3.1/cctype \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/ctype.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-float.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/timex.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/bits/semaphore.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc /usr/include/c++/5.3.1/string \
+ /usr/include/c++/5.3.1/bits/stringfwd.h \
+ /usr/include/c++/5.3.1/bits/char_traits.h \
+ /usr/include/c++/5.3.1/bits/postypes.h /usr/include/c++/5.3.1/cwchar \
+ /usr/include/c++/5.3.1/bits/localefwd.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++locale.h \
+ /usr/include/c++/5.3.1/clocale /usr/include/locale.h \
+ /usr/include/bits/locale.h /usr/include/c++/5.3.1/iosfwd \
+ /usr/include/c++/5.3.1/bits/ostream_insert.h \
+ /usr/include/c++/5.3.1/bits/cxxabi_forced.h \
+ /usr/include/c++/5.3.1/bits/stl_function.h \
+ /usr/include/c++/5.3.1/backward/binders.h \
+ /usr/include/c++/5.3.1/bits/basic_string.h \
+ /usr/include/c++/5.3.1/ext/atomicity.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/gthr.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/gthr-default.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/atomic_word.h \
+ /usr/include/c++/5.3.1/bits/basic_string.tcc /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/arpa/inet.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h /usr/include/netdb.h /usr/include/rpc/netdb.h \
+ /usr/include/bits/netdb.h /usr/include/sys/wait.h \
+ /usr/include/netinet/tcp.h vrpn_FileConnection.h vrpn_Log.h
+pc_linux64/vrpn_Dial.o: vrpn_Dial.C /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Connection.h vrpn_Configure.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Dial.h vrpn_BaseClass.h
+pc_linux64/vrpn_EndpointContainer.o: vrpn_EndpointContainer.C \
+ /usr/include/stdc-predef.h vrpn_EndpointContainer.h vrpn_Types.h \
+ vrpn_Configure.h vrpn_Assert.h /usr/include/assert.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ vrpn_Connection.h /usr/include/stdio.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Shared.h vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/c++/5.3.1/algorithm \
+ /usr/include/c++/5.3.1/utility /usr/include/c++/5.3.1/bits/stl_relops.h \
+ /usr/include/c++/5.3.1/bits/stl_algo.h /usr/include/c++/5.3.1/cstdlib \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h \
+ /usr/include/c++/5.3.1/bits/algorithmfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_heap.h \
+ /usr/include/c++/5.3.1/bits/stl_tempbuf.h
+pc_linux64/vrpn_FileConnection.o: vrpn_FileConnection.C /usr/include/stdc-predef.h \
+ vrpn_FileConnection.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc /usr/include/fcntl.h \
+ /usr/include/bits/fcntl.h /usr/include/bits/fcntl-linux.h \
+ /usr/include/bits/stat.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/limits.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h vrpn_Log.h
+pc_linux64/vrpn_FileController.o: vrpn_FileController.C /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ vrpn_Connection.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/xlocale.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/string.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_FileController.h
+pc_linux64/vrpn_ForceDevice.o: vrpn_ForceDevice.C /usr/include/stdc-predef.h \
+ /usr/include/math.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/math-vector.h \
+ /usr/include/bits/libm-simd-decl-stubs.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Connection.h vrpn_Configure.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc quat/quat.h vrpn_ForceDevice.h \
+ vrpn_BaseClass.h
+pc_linux64/vrpn_Forwarder.o: vrpn_Forwarder.C /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h vrpn_Forwarder.h \
+ vrpn_Configure.h vrpn_Connection.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Shared.h vrpn_Types.h vrpn_Thread.h /usr/include/pthread.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/xlocale.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/string.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_ForwarderController.o: vrpn_ForwarderController.C \
+ /usr/include/stdc-predef.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_ForwarderController.h \
+ vrpn_Forwarder.h
+pc_linux64/vrpn_Imager.o: vrpn_Imager.C /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Imager.h \
+ vrpn_BaseClass.h vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h \
+ vrpn_Types.h vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_LamportClock.o: vrpn_LamportClock.C /usr/include/stdc-predef.h \
+ vrpn_LamportClock.h vrpn_Configure.h vrpn_Types.h
+pc_linux64/vrpn_Mutex.o: vrpn_Mutex.C /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Mutex.h \
+ /usr/include/arpa/inet.h /usr/include/netdb.h /usr/include/rpc/netdb.h \
+ /usr/include/bits/siginfo.h /usr/include/bits/netdb.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h
+pc_linux64/vrpn_Poser.o: vrpn_Poser.C /usr/include/stdc-predef.h quat/quat.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Poser.h vrpn_BaseClass.h
+pc_linux64/vrpn_RedundantTransmission.o: vrpn_RedundantTransmission.C \
+ /usr/include/stdc-predef.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ vrpn_RedundantTransmission.h vrpn_BaseClass.h vrpn_Configure.h \
+ vrpn_Connection.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_Serial.o: vrpn_Serial.C /usr/include/stdc-predef.h \
+ /usr/include/fcntl.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/fcntl.h \
+ /usr/include/bits/fcntl-linux.h /usr/include/bits/uio.h \
+ /usr/include/sys/types.h /usr/include/time.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/stat.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/sys/ioctl.h \
+ /usr/include/bits/ioctls.h /usr/include/asm/ioctls.h \
+ /usr/include/asm-generic/ioctls.h /usr/include/linux/ioctl.h \
+ /usr/include/asm/ioctl.h /usr/include/asm-generic/ioctl.h \
+ /usr/include/bits/ioctl-types.h /usr/include/sys/ttydefaults.h \
+ /usr/include/termios.h /usr/include/bits/termios.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h vrpn_Shared.h \
+ vrpn_Configure.h vrpn_Types.h vrpn_Thread.h /usr/include/pthread.h \
+ /usr/include/sched.h /usr/include/bits/sched.h /usr/include/bits/timex.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_Serial.h
+pc_linux64/vrpn_Shared.o: vrpn_Shared.C /usr/include/stdc-predef.h \
+ /usr/include/math.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/math-vector.h \
+ /usr/include/bits/libm-simd-decl-stubs.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/stdio.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Shared.h vrpn_Configure.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/xlocale.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/string.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h
+pc_linux64/vrpn_SharedObject.o: vrpn_SharedObject.C /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_LamportClock.h \
+ vrpn_SharedObject.h
+pc_linux64/vrpn_Sound.o: vrpn_Sound.C /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h vrpn_Connection.h \
+ vrpn_Configure.h vrpn_Shared.h vrpn_Types.h vrpn_Thread.h \
+ /usr/include/pthread.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h /usr/include/time.h /usr/include/bits/sched.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Sound.h vrpn_BaseClass.h \
+ vrpn_Text.h
+pc_linux64/vrpn_Text.o: vrpn_Text.C /usr/include/stdc-predef.h vrpn_Text.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h vrpn_BaseClass.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ vrpn_Configure.h vrpn_Connection.h vrpn_Shared.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h /usr/include/string.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h vrpn_EndpointContainer.h \
+ vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc
+pc_linux64/vrpn_Thread.o: vrpn_Thread.C /usr/include/stdc-predef.h vrpn_Thread.h \
+ vrpn_Configure.h /usr/include/pthread.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sched.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/time.h /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/xlocale.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/semaphore.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/semaphore.h vrpn_Shared.h vrpn_Types.h \
+ /usr/include/string.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/signal.h \
+ /usr/include/bits/signum.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/sigthread.h
+pc_linux64/vrpn_Tracker.o: vrpn_Tracker.C /usr/include/stdc-predef.h \
+ /usr/include/ctype.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/xlocale.h \
+ /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stddef.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h vrpn_Shared.h vrpn_Configure.h vrpn_Types.h \
+ vrpn_Thread.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/time.h /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/semaphore.h \
+ /usr/include/netinet/in.h \
+ /usr/lib/gcc/x86_64-redhat-linux/5.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
+ /usr/include/sys/time.h /usr/include/assert.h \
+ vrpn_RedundantTransmission.h vrpn_BaseClass.h vrpn_Connection.h \
+ vrpn_EndpointContainer.h vrpn_Assert.h /usr/include/c++/5.3.1/vector \
+ /usr/include/c++/5.3.1/bits/stl_algobase.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/5.3.1/bits/functexcept.h \
+ /usr/include/c++/5.3.1/bits/exception_defines.h \
+ /usr/include/c++/5.3.1/bits/cpp_type_traits.h \
+ /usr/include/c++/5.3.1/ext/type_traits.h \
+ /usr/include/c++/5.3.1/ext/numeric_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_pair.h \
+ /usr/include/c++/5.3.1/bits/move.h \
+ /usr/include/c++/5.3.1/bits/concept_check.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5.3.1/debug/debug.h \
+ /usr/include/c++/5.3.1/bits/stl_iterator.h \
+ /usr/include/c++/5.3.1/bits/ptr_traits.h \
+ /usr/include/c++/5.3.1/bits/predefined_ops.h \
+ /usr/include/c++/5.3.1/bits/allocator.h \
+ /usr/include/c++/5.3.1/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/5.3.1/ext/new_allocator.h /usr/include/c++/5.3.1/new \
+ /usr/include/c++/5.3.1/exception \
+ /usr/include/c++/5.3.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5.3.1/bits/memoryfwd.h \
+ /usr/include/c++/5.3.1/bits/stl_construct.h \
+ /usr/include/c++/5.3.1/ext/alloc_traits.h \
+ /usr/include/c++/5.3.1/bits/stl_uninitialized.h \
+ /usr/include/c++/5.3.1/bits/stl_vector.h \
+ /usr/include/c++/5.3.1/bits/stl_bvector.h \
+ /usr/include/c++/5.3.1/bits/range_access.h \
+ /usr/include/c++/5.3.1/bits/vector.tcc vrpn_Tracker.h vrpn_Serial.h
